@@ -39,6 +39,26 @@ body {
     grid-row: 1;
 }
 
+.header-row-1 {
+    display: flex;
+    padding: 10px;
+}
+
+.header-row-1 #search {
+    flex: 1;
+}
+
+.header-row-2 {
+    display: flex;
+    padding: 10px;
+}
+
+.header-row-2 .header-button {
+    display: flex;
+    margin-left: auto;
+    gap: 10px;
+}
+
 .main-container {
     border: 2px solid red;
     background-color: orange;
