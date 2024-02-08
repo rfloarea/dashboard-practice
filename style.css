@@ -92,10 +92,10 @@ body {
 }
 
 .project-cards {
-    /* border: 1px solid black; */
+    border: 1px solid black;
     display: grid;
     gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 100px));
+    grid-template-columns: repeat(auto-fit, minmax(50px, 250px));
     grid-template-rows: 1fr 1fr;
     padding-top: 5px;
 }
