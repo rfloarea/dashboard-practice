@@ -61,10 +61,16 @@ body {
     padding: 10px;
 }
 
-.header-row-2 .header-button {
+.header-row-2 .header-buttons {
     display: flex;
     margin-left: auto;
     gap: 10px;
+}
+
+.btn {
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-color: rgb(232, 120, 223);
 }
 
 .main-container {
