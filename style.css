@@ -41,6 +41,8 @@ body {
 .header-row-1 {
     display: flex;
     padding: 10px;
+    align-items: center;
+    gap: 10px;
 }
 
 .header-row-1 #search {
