@@ -45,10 +45,11 @@ body {
     gap: 12px;
 }
 
-.header-row-1 #search {
+#search {
     flex: 1;
     height: 26px;
     max-width: 50%;
+    border-radius: 10px;
 }
 
 .header-icon {
