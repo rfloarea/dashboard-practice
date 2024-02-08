@@ -45,6 +45,7 @@ body {
 
 .header-row-1 #search {
     flex: 1;
+    height: 26px;
 }
 
 .header-icon {
